@@ -10,4 +10,6 @@ $ npm install --save react-navigation
 ```
 
 ### Future Works
-I am going to add search feature which I have already prepared its API.
+- I am going to add search feature which I have already prepared its API.
+- Create a post page.
+- Update & delete a post options.
